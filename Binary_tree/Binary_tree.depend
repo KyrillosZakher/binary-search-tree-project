@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1493909038 source:c:\users\kyrillos\desktop\oop\binary_tree\main.cpp
+	"Node.h"
+	"List.h"
+	"Menu.h"
+
+1493963573 source:c:\users\kyrillos\desktop\oop\binary_tree\list.cpp
+	"List.h"
+	"Node.h"
+	"Menu.h"
+
+1493963831 c:\users\kyrillos\desktop\oop\binary_tree\list.h
+	"Node.h"
+
+1493909037 c:\users\kyrillos\desktop\oop\binary_tree\node.h
+	<string>
+	<iostream>
+
+1493908223 c:\users\kyrillos\desktop\oop\binary_tree\menu.h
+	<iostream>
+	"conio.h"
+	<stdlib.h>
+	<stdio.h>
+
+1493908223 source:c:\users\kyrillos\desktop\oop\binary_tree\menu.cpp
+	"Menu.h"
+
+1493907821 source:c:\users\kyrillos\desktop\oop\binary_tree\node.cpp
+	"Node.h"
+
+1493909038 source:c:\users\kyrillos\desktop\binary_tree\main.cpp
+	"Node.h"
+	"List.h"
+	"Menu.h"
+
+1493909037 c:\users\kyrillos\desktop\binary_tree\node.h
+	<string>
+	<iostream>
+
+1493963831 c:\users\kyrillos\desktop\binary_tree\list.h
+	"Node.h"
+
+1493908223 c:\users\kyrillos\desktop\binary_tree\menu.h
+	<iostream>
+	"conio.h"
+	<stdlib.h>
+	<stdio.h>
+
+1493908223 source:c:\users\kyrillos\desktop\binary_tree\menu.cpp
+	"Menu.h"
+
+1493907821 source:c:\users\kyrillos\desktop\binary_tree\node.cpp
+	"Node.h"
+
+1495285826 source:d:\bio-medical\2nd year\new material\2nd term\data structure\project bst\binary_tree\list.cpp
+	"List.h"
+
+1495282151 d:\bio-medical\2nd year\new material\2nd term\data structure\project bst\binary_tree\list.h
+	<fstream>
+	"Node.h"
+	"input.h"
+	"Menu.h"
+
+1494530559 d:\bio-medical\2nd year\new material\2nd term\data structure\project bst\binary_tree\node.h
+	<string>
+	<iostream>
+
+1493904623 d:\bio-medical\2nd year\new material\2nd term\data structure\project bst\binary_tree\menu.h
+	<iostream>
+	"conio.h"
+	<stdlib.h>
+	<stdio.h>
+
+1495285826 source:d:\bio-medical\2nd year\new material\2nd term\data structure\project bst\binary_tree\main.cpp
+	"Node.h"
+	"List.h"
+	"Menu.h"
+
+1494524693 source:d:\bio-medical\2nd year\new material\2nd term\data structure\project bst\binary_tree\menu.cpp
+	"Menu.h"
+
+1494798033 source:d:\bio-medical\2nd year\new material\2nd term\data structure\project bst\binary_tree\node.cpp
+	"Node.h"
+	"input.h"
+
+1494530295 d:\bio-medical\2nd year\new material\2nd term\data structure\project bst\binary_tree\input.h
+	<iostream>
+	<string>
+
+1494530559 source:d:\bio-medical\2nd year\new material\2nd term\data structure\project bst\binary_tree\input.cpp
+	<stdio.h>
+	"input.h"
+	"List.h"
+
+1494534159 source:c:\users\kyrillos\downloads\binary_tree\input.cpp
+	<stdio.h>
+	"input.h"
+	"List.h"
+
+1494533895 c:\users\kyrillos\downloads\binary_tree\input.h
+	<iostream>
+	<string>
+
+1494532910 c:\users\kyrillos\downloads\binary_tree\list.h
+	"Node.h"
+	"input.h"
+	"Menu.h"
+
+1494534159 c:\users\kyrillos\downloads\binary_tree\node.h
+	<string>
+	<iostream>
+
+1493908223 c:\users\kyrillos\downloads\binary_tree\menu.h
+	<iostream>
+	"conio.h"
+	<stdlib.h>
+	<stdio.h>
+
+1494532959 source:c:\users\kyrillos\downloads\binary_tree\list.cpp
+	"List.h"
+
+1494528293 source:c:\users\kyrillos\downloads\binary_tree\menu.cpp
+	"Menu.h"
+
+1494534159 source:c:\users\kyrillos\downloads\binary_tree\node.cpp
+	"Node.h"
+	"input.h"
+
+1494532625 source:c:\users\kyrillos\downloads\binary_tree\main.cpp
+	"Node.h"
+	"List.h"
+	"Menu.h"
+
+1494530559 source:c:\users\andre\downloads\binary_tree\input.cpp
+	<stdio.h>
+	"input.h"
+	"List.h"
+
+1494530295 c:\users\andre\downloads\binary_tree\input.h
+	<iostream>
+	<string>
+
+1494535161 c:\users\andre\downloads\binary_tree\list.h
+	"Node.h"
+	"input.h"
+	"Menu.h"
+
+1494530559 c:\users\andre\downloads\binary_tree\node.h
+	<string>
+	<iostream>
+
+1493904623 c:\users\andre\downloads\binary_tree\menu.h
+	<iostream>
+	"conio.h"
+	<stdlib.h>
+	<stdio.h>
+
+1494535456 source:c:\users\andre\downloads\binary_tree\list.cpp
+	"List.h"
+
+1494524693 source:c:\users\andre\downloads\binary_tree\menu.cpp
+	"Menu.h"
+
+1494530559 source:c:\users\andre\downloads\binary_tree\node.cpp
+	"Node.h"
+	"input.h"
+
+1494535161 source:c:\users\andre\downloads\binary_tree\main.cpp
+	"Node.h"
+	"List.h"
+	"Menu.h"
+
