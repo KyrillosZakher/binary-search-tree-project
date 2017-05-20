@@ -1,8 +1,8 @@
 #ifndef INPUT_H_INCLUDED
 #define INPUT_H_INCLUDED
 #include <iostream>
-using namespace std;
 #include <string>
+using namespace std;
 string inName();
 string inDrugs();
 int inNum();
