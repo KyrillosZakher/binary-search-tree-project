@@ -22,8 +22,8 @@ public:
     void DeleteRootNode();
     void Search(int num,Node* iroot);
     void InOrderPrint(Node* iroot);
-    void Save_file(Node* iroot); /**this is the big bonus in statement ,we will make it after finishing all of project**/
-    void open_file(); /**this is the big bonus in statement ,we will make it after finishing all of project**/
+    void Save_file(Node* iroot);
+    void open_file(); 
 };
 
 
