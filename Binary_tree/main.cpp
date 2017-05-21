@@ -78,7 +78,6 @@ loop_background:
                     cin>>num;
                 }
                 obj.Search(num,obj.BSTroot());
-                Return();
                 system("cls");
                 goto loop_background;
             }
